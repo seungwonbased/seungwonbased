@@ -1,16 +1,28 @@
-### Hi there 👋
+# 🙇🏽‍♂️ 안녕하세요, 배승원입니다
+# 👋🏽 Hey, I'm Seungwon
 
-<!--
-**seungwonbased/seungwonbased** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨🏽‍💻 About Me
 
-Here are some ideas to get you started:
+- 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2023)
+- ☁️ 클라우드 엔지니어링과 웹 기술에 관심이 많습니다.
+- 📚 또한 마이크로서비스 아키텍처, 데브옵스 기술도 공부하고 있습니다
+- 🏆 수상: 아주 소프트콘 1위 (2022. 12)
+- 📧 연락처: oreobae@ajou.ac.kr
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2023)
+- ☁️ My area of interest lies in the domain of Cloud Computing and Web Development
+- 📚 Also eager to learn microservice architectures and devops
+- 🏆 Awards: 1st prize at Ajou-Softcon (2022. 12)
+- 📧 How to reach me: oreobae@ajou.ac.kr
+
+# ⚒️ Skills
+
+## ⚙️ Hard Skills
+
+![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=Amazon%20AWS&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/git-%23F05032?logo=Git&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Linux-%23000000?logo=Ubuntu&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=ffffff) 
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=ffffff)
+
+
+## ⌨️ Programming Language
+
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Java-%23F80000?logo=Oracle&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff)
