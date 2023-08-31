@@ -1,6 +1,6 @@
 
-🙇🏽‍♂️ 안녕하세요, 배승원입니다
-👋🏽 Hey, I'm Seungwon
+- 🙇🏽‍♂️ 안녕하세요, 배승원입니다
+- 👋🏽 Hey, I'm Seungwon
 
 # 👨🏽‍💻 About Me
 ###  
@@ -31,4 +31,4 @@
 
 # TiL
 
-[Today I Learned](https://github.com/seungwonbased/TIL)
+- [Today I Learned](https://github.com/seungwonbased/TIL)
