@@ -1,4 +1,4 @@
-# 🖖🏽
+# 🖖🏽 Greeting
 - 🙇🏽‍♂️ 안녕하세요, 배승원입니다
 - 👋🏽 Hey, I'm Seungwon
 
