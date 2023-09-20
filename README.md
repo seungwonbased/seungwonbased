@@ -9,7 +9,9 @@
 - 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술도 공부하고 있습니다
 - 🌏 Google Developer Student Club Ajou 1기 멤버
 - 🏆 수상: 아주 소프트콘 1위 (2022. 12)
-- 📧 연락처: oreobae@ajou.ac.kr
+- 📧 연락처
+  - 이메일: oreobae@ajou.ac.kr
+  - 디스코드: baeseungwon2.0
 
 ###   
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2023)
@@ -17,7 +19,10 @@
 - 📚 Also eager to learn Microservice Architectures, DevOps and Orchestration
 - 🌏 Google Developer Student Club Ajou 1st Gen Members
 - 🏆 Awards: 1st prize at Ajou-Softcon (2022. 12)
-- 📧 How to reach me: oreobae@ajou.ac.kr
+- 📧 How to reach me
+  - email: oreobae@ajou.ac.kr
+  - discord: baeseungwon2.0
+
 
 # ⚒️ Skills
 
