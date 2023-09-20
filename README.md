@@ -15,7 +15,7 @@
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2023)
 - ☁️ My area of interest lies in the domain of Cloud Computing and Web Development
 - 📚 Also eager to learn microservice architectures and devops
-- 🌏 Google Developer Student Club Ajou 1st Member
+- 🌏 Google Developer Student Club Ajou 1st Generation Members
 - 🏆 Awards: 1st prize at Ajou-Softcon (2022. 12)
 - 📧 How to reach me: oreobae@ajou.ac.kr
 
