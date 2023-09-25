@@ -28,8 +28,8 @@
 
 ## ⚙️ Hard Skills
 
-![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=Amazon%20AWS&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/git-%23F05032?logo=Git&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Linux-%23000000?logo=Ubuntu&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=ffffff) 
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?logo=Obsidian)
+![Static Badge](https://img.shields.io/badge/AWS-%23232F3E?logo=Amazon%20AWS&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Git-%23F05032?logo=Git&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Linux-%23000000?logo=Ubuntu&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=ffffff) 
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Kubernetes-%23326CE5?logo=Kubernetes&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=Spring%20Boot&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=%23FFFFFF) ![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?logo=Obsidian)
 
 
 
