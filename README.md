@@ -43,11 +43,11 @@
 
 > Flask 애플리케이션 개발, 클라우드 운영 서버 구축, 컨테이너 가상화
 
-- [\[Flask\]한끼얼마](https://github.com/seungwonbased/ssg-recipe-project)
-- [도커화된 한끼얼마](https://github.com/seungwonbased/dockerized-recipe-book)
-- [한끼얼마 React Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
-- [한끼얼마 Flask Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
-- [한끼얼마 Kubernetes 클러스터 구축 및 배포](https://github.com/seungwonbased/TIL/blob/main/%ED%95%9C%EB%81%BC%EC%96%BC%EB%A7%88%20K8s%20Cluster.md)
+- [\[Flask SSR\] 한끼얼마](https://github.com/seungwonbased/ssg-recipe-project)
+- [\[Dockerizing\] 도커화된 한끼얼마](https://github.com/seungwonbased/dockerized-recipe-book)
+- [\[React\] 한끼얼마 Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
+- [\[Flask\] 한끼얼마 Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
+- [\[Kubernetes\] 한끼얼마 클러스터 구축 및 배포](https://github.com/seungwonbased/TIL/blob/main/%ED%95%9C%EB%81%BC%EC%96%BC%EB%A7%88%20K8s%20Cluster.md)
 
 # 📖 TiL
 
