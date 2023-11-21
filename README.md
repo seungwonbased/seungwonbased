@@ -43,7 +43,7 @@
 
 > Flask 애플리케이션 개발, 클라우드 운영 서버 구축, 컨테이너 가상화
 
-- [한끼얼마](https://github.com/seungwonbased/ssg-recipe-project)
+- [\[Flask\]한끼얼마](https://github.com/seungwonbased/ssg-recipe-project)
 - [도커화된 한끼얼마](https://github.com/seungwonbased/dockerized-recipe-book)
 - [한끼얼마 React Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
 - [한끼얼마 Flask Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
