@@ -48,7 +48,7 @@
 - [\[React\] 한끼얼마 Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
 - [\[Flask\] 한끼얼마 Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
 - [\[Kubernetes\] 한끼얼마 클러스터 구축 및 배포](https://github.com/seungwonbased/TIL/blob/main/%ED%95%9C%EB%81%BC%EC%96%BC%EB%A7%88%20K8s%20Cluster.md)
-- [\[CI/CD, IaC\] 한끼얼마 배포, 클라우드 인프라 자동화 구축](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
+- [\[CI/CD, IaC\] 한끼얼마 배포, 클라우드 인프라 자동화 구축](https://github.com/seungwonbased/ssgRecipeBook-flask-backend](https://github.com/seungwonbased/hanggi-terraform)
 
 # 📖 TiL
 
