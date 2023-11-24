@@ -47,9 +47,9 @@
 > Flask 애플리케이션 개발, 클라우드 운영 서버 구축, 컨테이너 가상화
 
 - [\[Flask SSR\] 한끼얼마](https://github.com/seungwonbased/ssg-recipe-project)
-- [\[Dockerizing\] 도커화된 한끼얼마](https://github.com/seungwonbased/dockerized-recipe-book)
-- [\[React\] 한끼얼마 Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
-- [\[Flask\] 한끼얼마 Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
+- [\[Docker\] 도커화된 한끼얼마](https://github.com/seungwonbased/dockerized-recipe-book)
+- [\[React CSR\] 한끼얼마 Frontend](https://github.com/seungwonbased/ssgRecipeBook-react-frontend)
+- [\[Flask REST\] 한끼얼마 Restful API](https://github.com/seungwonbased/ssgRecipeBook-flask-backend)
 - [\[Kubernetes\] 한끼얼마 클러스터 구축 및 배포](https://github.com/seungwonbased/TIL/blob/main/%ED%95%9C%EB%81%BC%EC%96%BC%EB%A7%88%20K8s%20Cluster.md)
 - [\[CI/CD, IaC\] 한끼얼마 배포, 클라우드 인프라 자동화 구축](https://github.com/seungwonbased/hanggi-terraform)
 
