@@ -7,7 +7,7 @@
 ###  
 - 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2023)
 - ☁️ 클라우드 엔지니어링과 웹 기술에 관심이 많습니다
-- 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술도 공부하고 있습니다
+- 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술을 사용합니다
 - 🌏 Google Developer Student Club Ajou 1기 멤버
 - 🏆 수상: 아주 소프트콘 1위 (2022. 12)
 - 📧 연락처
@@ -17,7 +17,7 @@
 ###   
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2023)
 - ☁️ My area of interest lies in the domain of Cloud Computing and Web Development
-- 📚 Also eager to learn Microservice Architectures, DevOps and Orchestration
+- 📚 Also eager to apply Microservice Architectures, DevOps and Orchestration
 - 🌏 Google Developer Student Club Ajou 1st Gen Members
 - 🏆 Awards: 1st prize at Ajou-Softcon (2022. 12)
 - 📧 How to reach me
