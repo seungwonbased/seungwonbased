@@ -5,7 +5,7 @@
 
 # 👨🏽‍💻 About Me
 ###  
-- 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2023)
+- 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2024.02)
 - ☁️ 클라우드와 웹 기술에 관심이 많습니다
 - 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술을 사용합니다
 - 🌏 Google Developer Student Club Ajou 1기 멤버
@@ -15,7 +15,7 @@
   - 디스코드: baeseungwon2.0
 
 ###   
-- 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2023)
+- 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2024.02)
 - ☁️ My area of interest lies in the domain of Cloud Computing and Web Development
 - 📚 Also eager to apply Microservice Architectures, DevOps and Orchestrations
 - 🌏 Google Developer Student Club Ajou 1st Gen Members
