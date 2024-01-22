@@ -46,7 +46,7 @@
 
 > MSA 애플리케이션 개발, 퍼블릭 클라우드 쿠버네티스 클러스터 설계, 구축, 운영
 
-- [Salesync Repository](https://github.com/ssg-salesync)
+- [Salesync 상세 보기](https://github.com/ssg-salesync)
 
 ## 🥙 커뮤니티 커머스 [한끼얼마] 💰
 
