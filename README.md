@@ -39,10 +39,14 @@
 
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Java-%23F80000?logo=Oracle&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff)
 
+# 📖 TiL
+
+- [Today I Learned](https://github.com/seungwonbased/TIL#til)
+
 
 # 🏄🏽‍♂️ Projects
 
-## ☁️ 퍼블릭 클라우드 MSA 운영 환경 구축: 클라우드 POS [Salesync] 
+## ☁️ 퍼블릭 클라우드 MSA 운영 환경 구축: 클라우드 POS [Salesync] ☁️
 
 > MSA 애플리케이션 개발, 퍼블릭 클라우드 쿠버네티스 클러스터 설계, 구축, 운영
 
@@ -89,7 +93,3 @@
 > 라즈베리 파이 시스템 구축, IoT 소켓 통신
 
 - [📌 프로젝트 소개](https://wonsoong.notion.site/Raspberry-Pi-012230d5a2a945aa9fd4622c2f68bcf3?pvs=4)
-
-# 📖 TiL
-
-- [Today I Learned](https://github.com/seungwonbased/TIL#til)
