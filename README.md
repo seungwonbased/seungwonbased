@@ -13,6 +13,7 @@
 - 📧 연락처
   - 이메일: oreobae@ajou.ac.kr
   - 디스코드: baeseungwon2.0
+  - 뮤직보드: https://musicboard.app/baeseungwon2.0/reviews
 
 ###   
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2024.02)
@@ -23,6 +24,7 @@
 - 📧 How to reach me
   - email: oreobae@ajou.ac.kr
   - discord: baeseungwon2.0
+  - musicboard: https://musicboard.app/baeseungwon2.0/reviews
 
 
 # ⚒️ Skills
