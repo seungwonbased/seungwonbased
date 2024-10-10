@@ -1,7 +1,7 @@
+<!--
 # 🖖🏽 Greeting
 - 🙇🏽‍♂️ 안녕하세요, 배승원입니다
 - 👋🏽 Hey, I'm Seungwon
-
 
 # 👨🏽‍💻 About Me
 ###  
@@ -30,7 +30,7 @@
   - email: oreobae@ajou.ac.kr
   - discord: baeseungwon2.0
   - musicboard: https://musicboard.app/baeseungwon2.0/reviews
-
+-->
 
 # ⚒️ Skills
 
