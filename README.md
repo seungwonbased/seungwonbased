@@ -2,13 +2,12 @@
 # 🖖🏽 Greeting
 - 🙇🏽‍♂️ 안녕하세요, 배승원입니다
 - 👋🏽 Hey, I'm Seungwon
+-->
 
 # 👨🏽‍💻 About Me
 ###  
 - 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2024.02)
 - 🩵 한진정보통신 / HIST / System Engineer (2024. 07 ~)
-- ☁️ 클라우드 아키텍처링과 웹 기술에 관심이 많습니다
-- 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술을 사용합니다
 - 🌏 Google Developer Student Club Ajou 1기 멤버
 - 🏆 수상
   - 신세계아이앤씨 클라우드 엔지니어 양성 과정 최우수 프로젝트 (2024.02)
@@ -21,6 +20,7 @@
   - 디스코드: baeseungwon2.0
   - Instagram: baeseungwon2.0
 
+<!--
 ###   
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2024.02)
 - ☁️ My area of interest lies in the domain of Cloud Computing and Web Development
