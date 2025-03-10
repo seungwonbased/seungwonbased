@@ -6,6 +6,7 @@
 # 👨🏽‍💻 About Me
 ###  
 - 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2024.02)
+- 🩵 한진정보통신 / HIST / System Engineer (2024. 07 ~)
 - ☁️ 클라우드 아키텍처링과 웹 기술에 관심이 많습니다
 - 📚 또한 마이크로서비스 아키텍처, 데브옵스, 오케스트레이션 기술을 사용합니다
 - 🌏 Google Developer Student Club Ajou 1기 멤버
@@ -16,9 +17,9 @@
   - 아주 소프트콘 인기상 (2022.12)
 - 🖥️ 개인 웹 사이트: https://baelog.site/
 - 📧 연락처
-  - 이메일: oreobae@ajou.ac.kr
+  - 이메일: sbae@hist.co.kr
   - 디스코드: baeseungwon2.0
-  - 뮤직보드: https://musicboard.app/baeseungwon2.0/reviews
+  - Instagram: baeseungwon2.0
 
 ###   
 - 👨🏽‍🎓 Ajou University Digital Media / Software (~ 2024.02)
@@ -29,7 +30,7 @@
 - 📧 How to reach me
   - email: oreobae@ajou.ac.kr
   - discord: baeseungwon2.0
-  - musicboard: https://musicboard.app/baeseungwon2.0/reviews
+  - Instagram: baeseungwon2.0
 -->
 
 # ⚒️ Skills
@@ -44,11 +45,13 @@
 
 ## ⌨️ Programming Languages
 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Java-%23F80000?logo=Oracle&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff)
+<!--  ![Static Badge](https://img.shields.io/badge/Java-%23F80000?logo=Oracle&logoColor=ffffff) 
 
 # 📖 TiL
 
 - [Today I Learned](https://github.com/seungwonbased/TIL#til)
+-->
 
 
 # 🏄🏽‍♂️ Projects
