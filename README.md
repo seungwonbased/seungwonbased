@@ -50,7 +50,7 @@
 - [Today I Learned](https://github.com/seungwonbased/TIL#til)
 -->
 
-
+<!--
 # 🏄🏽‍♂️ Projects
 
 ## ☁️ 퍼블릭 클라우드 MSA 운영 환경 구축: 클라우드 POS [Salesync] ☁️
@@ -90,7 +90,7 @@
 - [📌 프로젝트 소개](https://wonsoong.notion.site/76292449145c4fc78e3db93874567416?pvs=4)
 
 ## 👔 패션 트렌드 분석 및 추천 서비스
-
+-->
 > Deep Learning 모델 개발, 컴퓨터 비전, 데이터 분석
 
 - [📌 프로젝트 소개](https://wonsoong.notion.site/AI-a2c93b1edada40f79a95edef14c54b0c?pvs=4)
