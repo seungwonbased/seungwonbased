@@ -23,7 +23,7 @@
   - discord: baeseungwon2.0
   - Instagram: baeseungwon2.0
 -->
-
+<!--
 # ⚒️ Skills
 
 ## ⚙️ Hard Skills
@@ -36,7 +36,7 @@
 
 ## ⌨️ Programming Languages
 
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Go-%2300ADD8?logo=Go&logoColor=ffffff) -->
 <!--  ![Static Badge](https://img.shields.io/badge/Java-%23F80000?logo=Oracle&logoColor=ffffff) 
 
 # 📖 TiL
