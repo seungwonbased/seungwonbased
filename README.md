@@ -8,8 +8,9 @@
 ###  
 - Ajou University Digital Media / Software (~ 2024.02)
 - HIST / Cloud Engineer (2024. 07 ~)
-- 📧 연락처
-  - 이메일: sbae@hist.co.kr
+- 연락처
+  - Email: sbae@hist.co.kr
+  - Phone: 010-8411-0283
 
 <!--
 ###   
