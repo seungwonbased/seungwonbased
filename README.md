@@ -4,10 +4,10 @@
 - 👋🏽 Hey, I'm Seungwon
 -->
 
-# 👨🏽‍💻 Me
+# Profile
 ###  
-- 👨🏽‍🎓 아주대학교 디지털미디어 / 소프트웨어 (~ 2024.02)
-- ✈️ 한진정보통신 / HIST / System Engineer (2024. 07 ~)
+- Ajou University Digital Media / Software (~ 2024.02)
+- HIST / Cloud Engineer (2024. 07 ~)
 - 📧 연락처
   - 이메일: sbae@hist.co.kr
 
