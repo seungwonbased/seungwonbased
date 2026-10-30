@@ -7,7 +7,10 @@
 # Profile
 ###  
 - Ajou University Digital Media / Software (~ 2024.02)
-- HIST / Cloud Engineer (2024. 07 ~)
+- HIST / Cloud Architect (2024. 07 ~)
+  - Cloud Governance
+  - Architecture
+  - Automation
 - 연락처
   - Email: sbae@hist.co.kr
   - Phone: 010-8411-0283
