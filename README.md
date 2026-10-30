@@ -4,7 +4,7 @@
 - 👋🏽 Hey, I'm Seungwon
 -->
 
-# Profile
+# Won
 ###  
 - Ajou University Digital Media / Software (~ 2024.02)
 - HIST / Cloud Architect (2024. 07 ~)
